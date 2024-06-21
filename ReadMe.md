@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm search a new Job.<br>6 Mouths Work Back-end Engennier intern.<br>3 Mouths Work Freelancer Full-stack Developer.<br>Compulsive reader of Manhwa, Manhua, Manga and Novels.<br>Studding: AWS and CSharp.<br>
-
+I'm looking for a new job.<br>6 Months' experience as a Back-End Engineer Intern.<br>3 Months' experience as a Freelance Full-Stack Developer.<br>Compulsive reader of Manhwa, Manhua, Manga, and Novels.<br>Learning: AWS and C#<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-c-bresolino/) 
