@@ -12,8 +12,6 @@ Experienced Backend Developer skilled in Java, Kotlin, C#, and Node.js, with a s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryHardLearning&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Followers](https://img.shields.io/github/followers/TryHardLearning?style=social)](https://github.com/TryHardLearning?tab=followers)
-[![Total Stars](https://img.shields.io/github/stars/TryHardLearning?style=social)](https://github.com/TryHardLearning?tab=repositories)
-[![Total Commits](https://img.shields.io/github/commit-activity/t/TryHardLearning)](https://github.com/TryHardLearning)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=TryHardLearning&theme=cobalt&hide_border=false)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
