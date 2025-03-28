@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Full Stack Developer skilled in Java, Kotlin, C#, and Node.js, with a solid understanding of RESTful APIs, Microservices, Severless applications.
+Experienced Full Stack Developer skilled in Java, Kotlin, C#, and Node.js, with a solid understanding of RESTful APIs, Microservices, Serverless applications, using Google Cloud Plataform, Firebase and Docker.
 
 Contributing as a software developer at a software house, my work involves developing and implementing code solutions designed to meet the specific needs of the B2B industry. Our firm is privileged to partner with numerous multinational companies and Brazilian cooperatives, providing advanced technological solutions.
 
